@@ -1,13 +1,13 @@
 export default [
   {
     id: "1",
-    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike1.png",
+    image: "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike1.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike1.png",
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike1_1.png",
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike1_2.png",
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike1_3.png",
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike1_4.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike1.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike1_1.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike1_2.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike1_3.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike1_4.png",
     ],
     name: "Wild Berry",
     price: 160,
@@ -26,13 +26,13 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   },
   {
     id: "2",
-    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike2.png",
+    image: "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike2.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike2.png",
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike2_1.png",
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike2_2.png",
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike2_3.png",
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike2_4.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike2.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike2_1.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike2_2.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike2_3.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike2_4.png",
     ],
     name: "Air Force 1",
     price: 169,
@@ -51,9 +51,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   },
   {
     id: "3",
-    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike3.png",
+    image: "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike3.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike3.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike3.png",
     ],
     name: "Nike Cosmic",
     price: 129,
@@ -72,9 +72,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   },
   {
     id: "4",
-    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike4.png",
+    image: "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike4.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike4.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike4.png",
     ],
     name: "Retro High",
     price: 119,
@@ -93,9 +93,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   },
   {
     id: "5",
-    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike5.png",
+    image: "https:/wokneerik.s3.us-east-2.amazonaws.com/nike/nike5.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike5.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike5.png",
     ],
     name: "Pegas Turbo",
     price: 95,
@@ -114,9 +114,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   },
   {
     id: "6",
-    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike6.png",
+    image: "https:/wokneerik.s3.us-east-2.amazonaws.com/nike/nike6.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike6.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike6.png",
     ],
     name: "Nike Blazer",
     price: 200,
@@ -135,9 +135,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   },
   {
     id: "7",
-    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike7.png",
+    image: "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike7.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike7.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike7.png",
     ],
     name: "Nike Waffle",
     price: 154,
@@ -156,9 +156,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   },
   {
     id: "8",
-    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike8.png",
+    image: "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike8.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike8.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike8.png",
     ],
     name: "Nike Reax",
     price: 123,
@@ -177,9 +177,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   },
   {
     id: "9",
-    image: "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike9.png",
+    image: "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike9.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike9.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike9.png",
     ],
     name: "Nike Dunk",
     price: 119,
@@ -199,9 +199,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   {
     id: "10",
     image:
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike10.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike10.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike10.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike10.png",
     ],
     name: "Nike Air Penny",
     price: 149,
@@ -221,9 +221,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   {
     id: "11",
     image:
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike11.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike11.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike11.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike11.png",
     ],
     name: "Court Vision",
     price: 132,
@@ -243,9 +243,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   {
     id: "12",
     image:
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike12.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike12.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike12.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike12.png",
     ],
     name: "Nike Immortality",
     price: 88,
@@ -265,9 +265,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   {
     id: "13",
     image:
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike13.png",
+      "https:/wokneerik.s3.us-east-2.amazonaws.com/nike/nike13.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike13.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike13.png",
     ],
     name: "Nike Aura",
     price: 201,
@@ -287,9 +287,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   {
     id: "14",
     image:
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike14.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike14.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike14.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike14.png",
     ],
     name: "Nike Zoom",
     price: 104,
@@ -309,9 +309,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   {
     id: "15",
     image:
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike15.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike15.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike15.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike15.png",
     ],
     name: "Nike Delta",
     price: 128,
@@ -331,9 +331,9 @@ A timeless rubber sole combines with a soft sockliner and encapsulated Nike Air 
   {
     id: "16",
     image:
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike16.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike16.png",
     images: [
-      "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/nike/nike16.png",
+      "https://wokneerik.s3.us-east-2.amazonaws.com/nike/nike16.png",
     ],
     name: "Nike React",
     price: 157,
